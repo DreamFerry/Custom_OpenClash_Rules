@@ -83,4 +83,6 @@ DOMAIN-SUFFIX,steamchina.com
 DOMAIN-SUFFIX,steamcontent.com
 DOMAIN-SUFFIX,steamserver.net
 DOMAIN-SUFFIX,steamusercontent.com
+# 小米浏览器
+DOMAIN,api.browser.miui.com
 
