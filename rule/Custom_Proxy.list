@@ -5,10 +5,11 @@
 
 # EA Desktop 云同步
 #DOMAIN-SUFFIX,cloudsync-prod.s3.us-east-1.amazonaws.com
-# GooglePlay 相关
+# 修复 Google Play Store 送中节点下载 
 DOMAIN-SUFFIX,services.googleapis.cn
-DOMAIN-SUFFIX,clientservices.googleapis.com
-DOMAIN-SUFFIX,googleapis.cn
+DOMAIN-SUFFIX,play.googleapis.com
+DOMAIN,connectivitycheck.gstatic.com
+DOMAIN-SUFFIX,android.clients.google.com
 DOMAIN-SUFFIX,xn--ngstr-lra8j.com
 # PS5 STUN
 DOMAIN-SUFFIX,stun.playstation.net
